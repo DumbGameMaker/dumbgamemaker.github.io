@@ -2,7 +2,7 @@
 
 Hi! I'm Syrx, a human. I go by They/She pronouns
 
-I mostly program in ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) using ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js&logoColor=white), but I am also working with ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift). 
+I mostly program in ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=rounded-square&logo=javascript&logoColor=white) using ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=rounded-square&logo=Node.js&logoColor=white), but I am also working with ![Swift](https://img.shields.io/badge/-Swift-black?style=rounded-square&logo=swift). 
 Follow me on [Twitter](twitter.com/opaldotjs)!
 
 ## My projects
